@@ -1,0 +1,84 @@
+#credit to
+#https://www.realsimple.com/home-organizing/gardening/indoor/popular-house-plants
+
+- name: Aloe Vera
+  care_tips:
+    Light: Bright light
+    Soil: Sandy, acidic soil, such as a cactus potting medium
+    Water: Allow the plant to dry out between waterings.
+    Temperature: 55 to 85 degrees Fahrenheit
+    Humidity: 40%
+
+- name: Golden Pothos
+  care_tips:
+    Light: Bright, indirect light (though can handle low light)
+    Soil: Moist, well-draining soil
+    Water: Let the soil dry out between waterings.
+    Temperature: 65 to 75 degrees Fahrenheit
+    Humidity: 50 to 70%
+  toxic_to_pets: true
+
+- name: Snake Plant
+  care_tips:
+    Light: Bright, indirect light
+    Soil: Light well-draining soil, especially a mix made for succulents or cacti
+    Water: Let the soil dry out between waterings.
+    Temperature: 70 to 90 degrees Fahrenheit
+    Humidity: 30 to 50%
+
+- name: Moth Orchid
+  care_tips:
+    Light: Bright, indirect light
+    Soil: Light well-draining soil with bark, moss, or peat
+    Water: Let the soil dry out between waterings.
+    Temperature: 50 to 90 degrees Fahrenheit
+    Humidity: 40 to 70%
+
+- name: Peace Lily
+  care_tips:
+    Light: Indirect light
+    Soil: Moist well-draining soil
+    Water: Let the soil dry out between waterings.
+    Temperature: 65 to 80 degrees Fahrenheit
+    Humidity: 50 to 70%
+  toxic_to_pets: true
+
+- name: Basil
+  care_tips:
+    Light: Bright sunlight
+    Soil: Moist, well-draining soil
+    Water: Keep the soil moist and mist occasionally.
+    Temperature: 70 degrees Fahrenheit
+    Humidity: 50 to 70%
+
+- name: African Violet
+  care_tips:
+    Light: Bright, indirect light
+    Soil: Moist well-draining soil
+    Water: Keep the soil moist.
+    Temperature: 70 degrees Fahrenheit
+    Humidity: 50 to 70%
+
+- name: Jade Plant
+  care_tips:
+    Light: Bright, indirect light
+    Soil: Light well-draining soil (preferably a succulent-specific blend)
+    Water: Keep soil moist in spring and summer and water monthly in winter.
+    Temperature: 60 to 75 degrees Fahrenheit
+    Humidity: 30 to 50%
+
+- name: Spider Plant
+  care_tips:
+    Light: Bright to moderate indirect light
+    Soil: Loamy, well-draining soil
+    Water: Let the top 2 inches of soil dry out between waterings.
+    Temperature: 50 to 90 degrees Fahrenheit
+    Humidity: 50 to 70%
+
+- name: Rubber Plant
+  care_tips:
+    Light: Bright, indirect light
+    Soil: Light well-draining soil
+    Water: Keep the plant moist with regular watering.
+    Temperature: 60 to 75 degrees Fahrenheit
+    Humidity: 30 to 50%
